@@ -863,7 +863,7 @@ class Main:
 
 		elif MG in ["1", "01"]:
 
-			os.system("xdg-open https://www.facebook.com/MUN3SH.PUR1 ")
+			os.system("xdg-open https://www.facebook.com/TheLegendBoyMuneshHere ")
 
 			print("")
 
